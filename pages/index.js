@@ -18,7 +18,7 @@ export default function Home() {
 
         <p className={styles.description}>
           <span className={styles.description}>
-            <Image src="/profile.png"  alt="Bliss Intersect Logo" width={500} sheight={500}/>
+            <Image src="/profile.png"  alt="Bliss Intersect Logo" width={500} height={500}/>
           </span>
         </p>
 
