@@ -16,6 +16,7 @@
 /build
 
 # misc
+README.md
 .DS_Store
 *.pem
 
