@@ -18,9 +18,17 @@ export default function Home() {
 
         <p className={styles.description}>
           <span className={styles.description}>
-            <Image src="/profile.png" link="https://prompthero.com/search?q=elephant+sushi" alt="Bliss Intersect Logo" width={500} height={500}/>
+            <Image src="/profile.png" alt="Bliss Intersect Logo" width={500} height={500}/>
               <h2 className={styles.description}>
-                <a>Coming Soon</a>
+
+                <a
+              href="https://prompthero.com/search?q=elephant+sushi"
+              className={styles.card}
+            >
+              <h2>Newsletter Coming Soon</h2>
+              <p>Curated tech links and news across the enterprise data, analytics, ML, and AI ecosystem.</p>
+                </a>
+
               </h2>
           </span>
         </p>
