@@ -34,7 +34,6 @@ export default function Home() {
                           Coming Soon &rarr;
                         </Link>
                 </div>
-
           </span>
         </p>
       </main>
