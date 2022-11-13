@@ -24,16 +24,6 @@ export default function Home() {
                 <a>Curated tech links and news across the enterprise data, analytics, ML, and AI ecosystem.</a>
                 <p><i><a href="https://prompthero.com/search?q=elephant+sushi">Coming Soon</a></i></p>
               </h2>
-
-              <div className="text-base font-medium leading-6">
-                        <Link
-                          href={`https://prompthero.com/search?q=elephant+sushi`}
-                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-                          aria-label={`Coming Soon`}
-                        >
-                          Coming Soon &rarr;
-                        </Link>
-                </div>
           </span>
         </p>
       </main>
