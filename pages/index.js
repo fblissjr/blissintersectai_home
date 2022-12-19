@@ -29,7 +29,7 @@ export default function Home() {
                 <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
               </h2>
               <body>
-                <a href="https://post.news/fredbliss">post.news/fredbliss</a>
+                <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
                 <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a>
                 <a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a>
               </body>
