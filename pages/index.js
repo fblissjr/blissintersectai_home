@@ -25,6 +25,7 @@ export default function Home() {
                 🔎 CTO of all things data, intersection of B2B and AI<br></br>
                 🚀 Founder @ Aptitive (acquired by 2nd Watch)<br></br>
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
+                </a>
               </h2>
               <h4>
                 </a>
