@@ -20,15 +20,15 @@ export default function Home() {
           <span className={styles.description}>
             <Image src="/profile.png"  alt="Bliss Intersect Logo" width={500} height={500}/>
              
-              <body className={styles.description}>
+              <h2 className={styles.description}>
                 <a>
                 🔎 CTO of all things data, intersection of B2B and AI<br></br>
                 🚀 Founder @ Aptitive (acquired by 2nd Watch)<br></br>
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
-                <p><a className={styles.main}>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
-              
-              
+                <p><a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
+              </h2>
+              <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
                 <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a><br></br>
                 <a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a>
