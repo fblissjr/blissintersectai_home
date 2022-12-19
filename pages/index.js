@@ -23,8 +23,8 @@ export default function Home() {
               <h2 className={styles.description}>
                 <a>
                 🔎 CTO of all things data, intersection of B2B and AI
-                <br>🚀 Founder @ Aptitive (acquired by 2nd Watch)</br>
-                <br>💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise</br>
+                🚀 Founder @ Aptitive (acquired by 2nd Watch)
+                💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
                 <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
               </h2>
