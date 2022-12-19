@@ -27,8 +27,8 @@ export default function Home() {
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
               </h2>
-              <main className={styles.main}>
-                <p><a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
+              <p main className={styles.main}>
+                <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
               <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
                 <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a><br></br>
