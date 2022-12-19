@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The Bliss Intersect</title>
-        <meta name="description" content="The Bliss Intersect" />
+        <title>Fred Bliss</title>
+        <meta name="description" content="Fred Bliss" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a>The Bliss Intersect</a>
+          <a>Fred Bliss</a>
         </h1>
 
         <p className={styles.description}>
