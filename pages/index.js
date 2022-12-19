@@ -23,15 +23,15 @@ export default function Home() {
               <h2 className={styles.description}>
                 <a>
                 🔎 CTO of all things data, intersection of B2B and AI
-                <br>🚀 Founder @ Aptitive (acquired by 2nd Watch)</br>
-                <br>💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise</br>
+                <br>🚀 Founder @ Aptitive (acquired by 2nd Watch)
+                <br>💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
                 <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
               </h2>
               <body>
-                <br><a href="https://post.news/fredbliss">post.news/fredbliss</a></br>
-                <br><a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a></br>
-                <br><a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a></br>
+                <br><a href="https://post.news/fredbliss">post.news/fredbliss</a>
+                <br><a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a>
+                <br><a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a>
               </body>
           </span>
         </p>
