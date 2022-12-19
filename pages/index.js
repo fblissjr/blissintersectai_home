@@ -21,15 +21,17 @@ export default function Home() {
             <Image src="/profile.png"  alt="Bliss Intersect Logo" width={500} height={500}/>
              
               <h2 className={styles.description}>
-                <a>Curated tech links and news across the enterprise data, analytics, ML, and AI ecosystem.</a>
-                <p><i><a href="https://prompthero.com/search?q=elephant+sushi">Coming Soon</a></i></p>
+                <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
+                <p><i><a href="https://post.news/fredbliss">post.news/fredbliss</a></i></p>
+                <p><i><a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a></i></p>
+                <p><i><a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a></i></p>
               </h2>
           </span>
         </p>
       </main>
 
       <footer className={styles.footer}>
-        <p>Coming Soon</p>
+        
       </footer>
     </div>
   )
