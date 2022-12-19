@@ -22,10 +22,12 @@ export default function Home() {
              
               <h2 className={styles.description}>
                 <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
-                <p><i><a href="https://post.news/fredbliss">post.news/fredbliss</a></i></p>
-                <p><i><a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a></i></p>
-                <p><i><a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a></i></p>
               </h2>
+              <body>
+                <p><a href="https://post.news/fredbliss">post.news/fredbliss</a></p>
+                <p><a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a></p>
+                <p><a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a></p>
+              </body>
           </span>
         </p>
       </main>
