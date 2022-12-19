@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      
+      <main className={styles.main}>
         <h1 className={styles.title}>
           <a>Fred Bliss</a>
         </h1>
@@ -26,10 +26,8 @@ export default function Home() {
                 🚀 Founder @ Aptitive (acquired by 2nd Watch)<br></br>
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
+                <p><a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
               </h2>
-              <h3>
-                <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
-              </h3>
               <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
                 <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a><br></br>
@@ -37,10 +35,11 @@ export default function Home() {
               </body>
           </span>
         </p>
-      </div>
+      </main>
 
       <footer className={styles.footer}>
         
       </footer>
+    </div>
   )
 }
