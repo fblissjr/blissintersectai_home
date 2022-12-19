@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
+      
         <h1 className={styles.title}>
           <a>Fred Bliss</a>
         </h1>
@@ -27,10 +27,8 @@ export default function Home() {
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
               </h2>
-              <h4>
-                </a>
+              <main className={styles.main}>
                 <p><a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
-              </h4>
               <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
                 <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a><br></br>
