@@ -21,6 +21,11 @@ export default function Home() {
             <Image src="/profile.png"  alt="Bliss Intersect Logo" width={500} height={500}/>
              
               <h2 className={styles.description}>
+                <a>
+                🔎 CTO of all things data, intersection of B2B and AI
+🚀 Founder @ Aptitive (acquired by 2nd Watch)
+💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
+                </a>
                 <a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a>
               </h2>
               <body>
