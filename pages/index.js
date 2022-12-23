@@ -13,7 +13,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.header}>
-          <Image src="/profile.png" alt="Profile picture" width={250} height={250} />
+          <div className={styles.profilePicture}>
+            <Image src="/profile.png" alt="Profile picture" width={500} height={500} />
+          </div>
           <h1 className={styles.title}>Fred Bliss</h1>
           <p className={styles.description}>
             CTO of all things data, intersection of B2B and AI <br />
@@ -24,8 +26,8 @@ export default function Home() {
         <hr />
         <p>Points of view and curated links across the intersection of AI, data, and B2B enterprise</p>
         <div className={styles.socialLinks}>
-          <a href="https://post.news/fredbliss">post.news/fredbliss</a>
-          <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a>
+          <a href="https://post.news/fredbliss">post.news/fredbliss</a> <br />
+          <a href="https://twitter.com/fblissjr">twitter.com/fblissjr</a> <br />
           <a href="https://linkedin.com/in/fbliss">https://linkedin.com/in/fbliss</a>
         </div>
       </main>
