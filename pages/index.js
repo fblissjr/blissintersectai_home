@@ -38,7 +38,6 @@ export default function Home() {
             </a>
           </Link>
           </div>
-      
               </h2>
               <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
