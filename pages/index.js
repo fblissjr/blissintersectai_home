@@ -3,6 +3,14 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Script from 'next/script'
 
+export default function EmbedNewsletter() {
+  return (
+    <>
+      <Script src="https://your-script-link.js" />
+    </>
+  )
+}
+
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -27,8 +35,7 @@ export default function Home() {
                 🚀 Founder @ Aptitive (acquired by 2nd Watch)<br></br>
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
-                <p><Script src="https://fredbliss.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></Script></p>
-                <p><a>Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
+                <p><a href="https://fredbliss.substack.com/?utm_source=home">Newsletter - Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
               </h2>
               <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
