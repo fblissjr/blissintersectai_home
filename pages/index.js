@@ -26,7 +26,18 @@ export default function Home() {
                 🚀 Founder @ Aptitive (acquired by 2nd Watch)<br></br>
                 💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
                 </a>
-                <p><a href="https://fredbliss.substack.com/?utm_source=home">Newsletter - Points of view and curated links across the intersection of AI, data, and B2B enterprise</a></p>
+        
+          <div style={{ padding: 30 }}>
+          <Link href="https://fredbliss.substack.com/?utm_source=home">
+            <a style={{
+              textDecoration: 'underline',
+              color: 'blue',
+            }}>
+              Newsletter - Points of view and curated links across the intersection of AI, data, and B2B enterprise
+            </a>
+          </Link>
+          </div>
+      
               </h2>
               <body>
                 <a href="https://post.news/fredbliss">post.news/fredbliss</a><br></br>
