@@ -51,8 +51,10 @@
   color: blue;
 }
 
-.contactLinks {
-  /* Add any styles specific to the contact links */
+.contactLinks a {
+  color: #0070f3; /* Change the link color */
+  text-decoration: underline; /* Add an underline */
+  font-weight: bold; /* Make the text bold */
 }
 
 .code {
