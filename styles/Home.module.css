@@ -46,9 +46,35 @@
   padding: 30px;
 }
 
-.newsletterLink {
-  text-decoration: underline;
-  color: blue;
+.newsletterContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-top: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+  padding: 1rem 0;
+}
+
+.newsletterButton {
+  display: inline-block;
+  background-color: #0070f3;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.newsletterButton:hover,
+.newsletterButton:focus {
+  background-color: #0051a8;
+}
+
+.newsletterDescription {
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 1rem;
 }
 
 .contactLinks a {
