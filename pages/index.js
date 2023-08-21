@@ -27,12 +27,13 @@ export default function Home() {
           💡 AI/ML/LLM enthusiast, building in open, impacts on enterprise
         </h2>
 
-        <div className={styles.linkContainer}>
+        <div className={styles.newsletterContainer}>
           <Link href="https://fredbliss.substack.com/?utm_source=home">
-            <a className={styles.newsletterLink}>
-              Newsletter - Points of view and curated links across the intersection of AI, data, and B2B enterprise
-            </a>
+            <a className={styles.newsletterButton}>Newsletter</a>
           </Link>
+          <p className={styles.newsletterDescription}>
+            Points of view and curated links across the intersection of AI, data, and B2B enterprise
+          </p>
         </div>
 
         <div className={styles.contactLinks}>
