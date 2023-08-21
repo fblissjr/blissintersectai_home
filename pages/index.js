@@ -40,10 +40,10 @@ export default function Home() {
           </div>
               </h2>
               <body>
-                <a href="https://linkedin.com/in/fbliss">LinkedIn (@fbliss)</a>
-                <a href="https://www.threads.net/@fblissjr">Threads (@fblissjr)</a>
+                <a href="https://linkedin.com/in/fbliss">LinkedIn (@fbliss)</a><br></br>
+                <a href="https://www.threads.net/@fblissjr">Threads (@fblissjr)</a><br></br>
                 <a href="https://twitter.com/fblissjr">Twitter (@fblissjr)</a><br></br>
-                <a href="https://post.news/fredbliss">Post (@fredbliss)</a><br></br>
+                <a href="https://post.news/fredbliss">Post (@fredbliss)</a>
               </body>
           </span>
         </p>
