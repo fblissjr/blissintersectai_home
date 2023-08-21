@@ -21,13 +21,6 @@
   align-items: center;
 }
 
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
-}
-
 .title a {
   color: #0070f3;
   text-decoration: none;
@@ -54,6 +47,23 @@
   margin: 4rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+}
+
+.subtitle {
+  /* Add any styles specific to the subtitle */
+}
+
+.linkContainer {
+  padding: 30px;
+}
+
+.newsletterLink {
+  text-decoration: underline;
+  color: blue;
+}
+
+.contactLinks {
+  /* Add any styles specific to the contact links */
 }
 
 .code {
