@@ -29,7 +29,7 @@ export default function Home() {
 
         <div className={styles.newsletterContainer}>
           <Link href="https://fredbliss.substack.com/?utm_source=home">
-            <a className={styles.newsletterButton}>Newsletter</a>
+            <a className={styles.newsletterButton}>Bliss Intersect Newsletter</a>
           </Link>
           <p className={styles.newsletterDescription}>
             Points of view and curated links across the intersection of AI, data, and B2B enterprise
