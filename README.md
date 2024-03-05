@@ -1,1 +1,1 @@
-Bliss Intersect NextJS
+Bliss Intersect static website
